@@ -32,12 +32,12 @@
     </a>
     <a href="https://github.com/MarkFu0213/Haotong-Fu/tree/main/Chatgpt_Resume_Refiner" style="text-decoration: none;">
         <div style="width: 278px; background-color: #1F222E; color: #F85D7F; padding: 15px; border-radius: 5px; text-align: center; margin-bottom: 10px;">
-            <strong>Resume Refiner</strong>
+            <strong>Resume_Refiner</strong>
         </div>
     </a>
     <a href="https://github.com/MarkFu0213/Haotong-Fu/tree/main/Chromakey%20Image%20Processor" style="text-decoration: none;">
         <div style="width: 278px; background-color: #1F222E; color: #F85D7F; padding: 15px; border-radius: 5px; text-align: center;">
-            <strong>Image Processor</strong>
+            <strong>Image_Processor</strong>
         </div>
     </a>
 </p>
