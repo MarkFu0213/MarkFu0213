@@ -26,21 +26,22 @@
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
     <a href="https://github.com/MarkFu0213/SciSketch-Summer" style="text-decoration: none;">
-        <div style="width: 278px; background-color: #1F222E; color: #F85D7F; padding: 15px; border-radius: 5px; text-align: center; margin-bottom: 10px;">
+        <div style="width: 278px; background: linear-gradient(135deg, #F85D7F, #FF7E5F); color: white; padding: 15px; border-radius: 10px; text-align: center; margin-bottom: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); font-family: Arial, sans-serif;">
             <strong>SciSketch</strong>
         </div>
     </a>
     <a href="https://github.com/MarkFu0213/Haotong-Fu/tree/main/Chatgpt_Resume_Refiner" style="text-decoration: none;">
-        <div style="width: 278px; background-color: #1F222E; color: #F85D7F; padding: 15px; border-radius: 5px; text-align: center; margin-bottom: 10px;">
-            <strong>Resume_Refiner</strong>
+        <div style="width: 278px; background: linear-gradient(135deg, #6A82FB, #FC5C7D); color: white; padding: 15px; border-radius: 10px; text-align: center; margin-bottom: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); font-family: Arial, sans-serif;">
+            <strong>Resume Refiner</strong>
         </div>
     </a>
     <a href="https://github.com/MarkFu0213/Haotong-Fu/tree/main/Chromakey%20Image%20Processor" style="text-decoration: none;">
-        <div style="width: 278px; background-color: #1F222E; color: #F85D7F; padding: 15px; border-radius: 5px; text-align: center;">
-            <strong>Image_Processor</strong>
+        <div style="width: 278px; background: linear-gradient(135deg, #FFB75E, #ED8F03); color: white; padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); font-family: Arial, sans-serif;">
+            <strong>Image Processor</strong>
         </div>
     </a>
 </p>
+
 
 
 </details>
