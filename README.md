@@ -26,21 +26,22 @@
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
     <a href="https://github.com/MarkFu0213/SciSketch-Summer" style="text-decoration: none;">
-        <div style="width: 278px; background: linear-gradient(135deg, #F85D7F, #FF7E5F); color: white; padding: 15px; border-radius: 10px; text-align: center; margin-bottom: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); font-family: Arial, sans-serif;">
-            <strong>SciSketch</strong>
+        <div style="width: 278px; background-image: url('https://source.unsplash.com/random/278x150?tech'); background-size: cover; color: white; padding: 15px; border-radius: 10px; text-align: center; margin-bottom: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); font-family: Arial, sans-serif; display: flex; align-items: center; justify-content: center; height: 150px;">
+            <strong style="background-color: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px;">SciSketch</strong>
         </div>
     </a>
     <a href="https://github.com/MarkFu0213/Haotong-Fu/tree/main/Chatgpt_Resume_Refiner" style="text-decoration: none;">
-        <div style="width: 278px; background: linear-gradient(135deg, #6A82FB, #FC5C7D); color: white; padding: 15px; border-radius: 10px; text-align: center; margin-bottom: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); font-family: Arial, sans-serif;">
-            <strong>Resume Refiner</strong>
+        <div style="width: 278px; background-image: url('https://source.unsplash.com/random/278x150?resume'); background-size: cover; color: white; padding: 15px; border-radius: 10px; text-align: center; margin-bottom: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); font-family: Arial, sans-serif; display: flex; align-items: center; justify-content: center; height: 150px;">
+            <strong style="background-color: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px;">Resume Refiner</strong>
         </div>
     </a>
     <a href="https://github.com/MarkFu0213/Haotong-Fu/tree/main/Chromakey%20Image%20Processor" style="text-decoration: none;">
-        <div style="width: 278px; background: linear-gradient(135deg, #FFB75E, #ED8F03); color: white; padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); font-family: Arial, sans-serif;">
-            <strong>Image Processor</strong>
+        <div style="width: 278px; background-image: url('https://source.unsplash.com/random/278x150?image-processing'); background-size: cover; color: white; padding: 15px; border-radius: 10px; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); font-family: Arial, sans-serif; display: flex; align-items: center; justify-content: center; height: 150px;">
+            <strong style="background-color: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px;">Image Processor</strong>
         </div>
     </a>
 </p>
+
 
 
 
