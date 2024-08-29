@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 36px;">
+  <strong style="font-size: 96px;">
     Haotong Fu (Mark)
   </strong>
 </p>
@@ -25,7 +25,9 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/MarkFu0213/SciSketch-Summer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/MarkFu0213/SciSketch-Summer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="SciSketch"></a>
+    <a href="https://github.com/MarkFu0213/Haotong-Fu/tree/main/Chatgpt_Resume_Refiner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Resume_Refiner"></a>
+    <a href="https://github.com/MarkFu0213/Haotong-Fu/tree/main/Chromakey%20Image%20Processor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Image_Processor"></a>
    
   </p>
 
