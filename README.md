@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://github.com/MarkFu0213">
+  <strong style="font-size: 36px;">
     Haotong Fu (Mark)
-  </a>
+  </strong>
 </p>
+
 
 <!-- Social icons section -->
 <p align="center">
