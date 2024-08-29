@@ -1,8 +1,13 @@
 <p align="center">
-  <strong style="font-size: 96px;">
+  <strong style="font-size: 120px;">
     Haotong Fu (Mark)
   </strong>
+  <br>
+  <span style="font-size: 48px;">
+    I am an ambitious undergraduate studying Computer Science and Data Science at the University of Southern California. Seeking to leverage my strong technical abilities and experience with data analysis, web development, and research projects in an information technology role. I am a diligent, quick learner who thrives in fast-paced environments. Eager to expand my industry knowledge and contribute to impactful projects.
+  </span>
 </p>
+
 
 
 <!-- Social icons section -->
