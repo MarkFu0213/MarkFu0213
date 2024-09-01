@@ -37,6 +37,7 @@
     <a href="https://github.com/MarkFu0213/Stock_Trading_Simulator" style="font-size: 20px; font-weight: bold; text-decoration: none; color: #000;">
         Stock Trading Simulator
     </a>
+   <br>
     <a href="https://github.com/MarkFu0213/Haotong-Fu/tree/main/Chatgpt_Resume_Refiner" style="font-size: 20px; font-weight: bold; text-decoration: none; color: #000;">
         Resume Refiner
     </a>
