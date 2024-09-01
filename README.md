@@ -31,9 +31,12 @@
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
     <a href="https://github.com/MarkFu0213/SciSketch-Summer" style="font-size: 20px; font-weight: bold; text-decoration: none; color: #000;">
-        SciSketch
+        SciSketch - AI Diagram Generator
     </a>
     <br>
+    <a href="https://github.com/MarkFu0213/Stock_Trading_Simulator" style="font-size: 20px; font-weight: bold; text-decoration: none; color: #000;">
+        Stock Trading Simulator
+    </a>
     <a href="https://github.com/MarkFu0213/Haotong-Fu/tree/main/Chatgpt_Resume_Refiner" style="font-size: 20px; font-weight: bold; text-decoration: none; color: #000;">
         Resume Refiner
     </a>
