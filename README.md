@@ -26,7 +26,7 @@
 
 
 <details open> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+  <summary><h2>📕 Top Projects I've Contributed To "Please Check out my ongoing project SciSketch, email me for collaborating markfu0213@gmail.com"</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
