@@ -4,7 +4,7 @@
   </strong>
   <br>
   <span style="font-size: 48px;">
-    I am an ambitious undergraduate studying Computer Science and Data Science at the University of Southern California. Seeking to leverage my strong technical abilities and experience with data analysis, web development, and research projects in an information technology role. I am a diligent, quick learner who thrives in fast-paced environments. Eager to expand my industry knowledge and contribute to impactful projects.
+    I am an ambitious undergraduate and graduate studying Computer Science and Data Science at the University of Southern California. Seeking to leverage my strong technical abilities and experience with data analysis, web development, and research projects in an information technology role. I am a diligent, quick learner who thrives in fast-paced environments. Eager to expand my industry knowledge and contribute to impactful projects.
   </span>
 </p>
 
@@ -31,6 +31,10 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
+    <a href="https://github.com/MarkFu0213/BookLoom_" style="font-size: 20px; font-weight: bold; text-decoration: none; color: #000;">
+        SciSketch - AI Diagram Generator
+    </a>
+    <br>
     <a href="https://github.com/MarkFu0213/SciSketch-Summer" style="font-size: 20px; font-weight: bold; text-decoration: none; color: #000;">
         SciSketch - AI Diagram Generator
     </a>
