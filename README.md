@@ -32,7 +32,7 @@
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
     <a href="https://github.com/MarkFu0213/BookLoom_" style="font-size: 20px; font-weight: bold; text-decoration: none; color: #000;">
-        SciSketch - AI Diagram Generator
+        BookLoom - Re-imagine Stories
     </a>
     <br>
     <a href="https://github.com/MarkFu0213/SciSketch-Summer" style="font-size: 20px; font-weight: bold; text-decoration: none; color: #000;">
