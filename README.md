@@ -4,7 +4,7 @@
   </strong>
   <br>
   <span style="font-size: 48px;">
-    I am an ambitious undergraduate and graduate studying Computer Science and Data Science at the University of Southern California. Seeking to leverage my strong technical abilities and experience with data analysis, web development, and research projects in an information technology role. I am a diligent, quick learner who thrives in fast-paced environments. Eager to expand my industry knowledge and contribute to impactful projects.
+    I am an ambitious undergraduate and graduate studying Computer Science and Data Science at the University of Southern California. Seeking to leverage my strong technical abilities and experience with Mobile App development, Web development, and research in an information technology role. I am a diligent, quick learner who thrives in fast-paced environments. Eager to expand my industry knowledge and contribute to impactful projects. 
   </span>
 </p>
 
@@ -27,7 +27,7 @@
 
 <details open> 
   <summary><h2>📕 Top Projects I've Contributed To </h2></summary>
-  <h3> "Please Check out my ongoing project SciSketch, email me for collaborating markfu0213@gmail.com" </h3>
+  <h3> "Please Check out these projects, email me for collaborating markfu0213@gmail.com. I am also working on a few private projects, dm if interested!" </h3>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
